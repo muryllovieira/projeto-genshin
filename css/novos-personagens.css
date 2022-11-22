@@ -1,0 +1,15 @@
+.titulo__text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: blue;
+    font-size: 8vh;
+}
+.container{
+    font-size: 4vh;
+    color: white;
+}
+.text{
+    font-size: 5vh;
+    color: white;
+}

@@ -1,0 +1,30 @@
+.home{
+    background-image: url(../img/backgroundPrincipal.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+    height: 288px;
+    width: 443px;
+    padding-left: 50px;
+}
+.home__text{
+    display: flex;
+    padding-top: 400px; 
+    font-size: 7vh;
+    color: blue;
+    padding-left: 300px;
+}
+.button1{
+    position: absolute;
+    transform: translateY(2000px);
+    transform: translateX(1500px); 
+    
+    
+}
+button{
+    background-color: #BB92EA;
+    border-radius: 13px;
+    width: 7vw;
+    height: 4vh;
+}
