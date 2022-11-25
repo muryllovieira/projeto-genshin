@@ -1,0 +1,24 @@
+.novos-inimigos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 300px;
+}
+
+.titulo__text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: blue;
+    font-size: 8vh;
+}
+.circulo-gif {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: lightblue;
+    border-radius: 50%;
+    width: 900px;
+    height: 900px;
+}

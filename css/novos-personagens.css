@@ -13,3 +13,42 @@
     font-size: 5vh;
     color: white;
 }
+.nahira{
+
+    display: flex;
+    padding-top: 235px; 
+    padding-left: 250px;
+    position: relative;
+
+}
+.nahira-title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #fff;
+    font-size: 6vh;
+}
+.container1{
+    display: flex;
+    align-items: flex-end;
+    color: #F2F53C;
+    font-size: 4vh;
+}
+.nahira-text{
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    padding-top: 150px; 
+    padding-left: 250px;
+    font-size: 4vh;
+}
+.linha-horizontal {
+    width: 300px;
+    border: 2px solid #fff;
+}
+.nahira-img{
+    position: relative;
+    top: -650px;
+    margin-left: 20px;
+    padding-left: 1300px;
+}
