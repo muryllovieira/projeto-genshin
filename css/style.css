@@ -6,20 +6,18 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
-section{
+
+.home{
     height: 120vh;
 }
-.home{
-    
-}
 .novos-personagens{
-    
+    height: 120vh;
 }
 .novos-inimigos{
-  
+    height: 150vh;
 }
 .informacoes-versao{
-  
+    height: 150vh;
 }
 .caracteristicas{
     

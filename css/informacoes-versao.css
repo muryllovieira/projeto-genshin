@@ -1,0 +1,23 @@
+.titulo__text1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #B391F7;
+    font-size: 8vh;
+}
+.container1{
+    font-size: 4vh;
+    color: #B391F7;
+}
+.informacoes-versao{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 100px;
+}
+.personagens{
+    display: flex;
+    align-items: center;
+    gap: 250px;
+}
