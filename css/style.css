@@ -11,14 +11,16 @@
     height: 120vh;
 }
 .novos-personagens{
-    height: 120vh;
+    height: 100vh;
 }
 .novos-inimigos{
-    height: 140vh;
+    height: 160vh;
 }
 .informacoes-versao{
     height: 150vh;
 }
 .caracteristicas{
-    height: 130vh;
-}
+    height: 120vh;
+} 
+
+

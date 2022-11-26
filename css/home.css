@@ -3,6 +3,26 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.parte-cima{
+    display: flex;
+    gap: 120px;
+    grid-area: content;
+    align-items: center;
+    justify-content: center;
+}
+.lista{
+   
+        border-bottom: 4px solid transparent;
+        transition: border-color 0.5s ;
+    
+
+}
+.links{
+    display: flex;
+    gap: 72px;
+    font-size: 2.5rem;
+    color: #fff;
+}
 .logo{
     height: 288px;
     width: 443px;
@@ -11,20 +31,22 @@
 .home__text{
     display: flex;
     padding-top: 400px; 
-    font-size: 7vh;
+    font-size: 9vh;
     padding-left: 300px;
-
-    background: -webkit-linear-gradient(top, #1D45AC 40%, #BF00DE 100%);
+    
+    background: -webkit-linear-gradient(top, #1D45AC 50%, #BF00DE 100%);
 
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+
+    -webkit-text-stroke: 1.5px #000;
+
 }
 .button1{
     position: absolute;
     transform: translateY(2000px);
     transform: translateX(1500px); 
-    
-    
+
 }
 button{
     background-color: #BB92EA;

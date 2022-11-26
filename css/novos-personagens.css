@@ -29,7 +29,6 @@
 .nahira-title{
     display: flex;
     flex-direction: column;
-    align-items: center;
     color: #fff;
     font-size: 6vh;
 }
@@ -43,9 +42,14 @@
     display: flex;
     flex-direction: column;
     color: #fff;
-    padding-top: 150px; 
+    padding-top: 50px; 
     padding-left: 250px;
     font-size: 4vh;
+    gap: 50px;
+}
+.container3{
+    display: flex;
+    gap: 100px;
 }
 .linha-horizontal {
     width: 300px;
@@ -53,7 +57,7 @@
 }
 .nahira-img{
     position: relative;
-    top: -650px;
+    top: -580px;
     margin-left: 20px;
     padding-left: 1300px;
 }
