@@ -12,8 +12,12 @@
     display: flex;
     padding-top: 400px; 
     font-size: 7vh;
-    color: blue;
     padding-left: 300px;
+
+    background: -webkit-linear-gradient(top, #1D45AC 40%, #BF00DE 100%);
+
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 .button1{
     position: absolute;

@@ -2,8 +2,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #B391F7;
     font-size: 8vh;
+
+    background: -webkit-linear-gradient(top, #3E4BB9 40%, #8015C1 100%);
+
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    gap: 52px;
 }
 .container1{
     font-size: 4vh;
@@ -19,7 +24,12 @@
 .banner-eula{
     height: 500px;
     width: 1000px;
-    display: flex;
-    align-items: center;
-    gap: 250px;
+}
+.banner-yaeMiko{
+    height: 500px;
+    width: 1000px;
+}
+.banner-tinhinary{
+    height: 500px;
+    width: 1000px;
 }

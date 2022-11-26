@@ -2,8 +2,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    color: blue;
     font-size: 8vh;
+
+    background: -webkit-linear-gradient(top, #D2B4E4 40%, #8015C1 100%);
+
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    gap: 52px;
 }
 .container{
     font-size: 4vh;
