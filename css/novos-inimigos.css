@@ -3,7 +3,7 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    gap: 300px;
+    gap: 100px;
 }
 
 .titulo__text{
@@ -13,6 +13,7 @@
     color: blue;
     font-size: 8vh;
 }
+
 .circulo-gif {
     display: flex;
     align-items: center;
@@ -21,4 +22,12 @@
     border-radius: 50%;
     width: 900px;
     height: 900px;
+}
+@media (max-width:640px){
+    .circulo-gif{
+        display: flex;
+        background: none;
+        width: 500px;
+        height: 500px;
+    }
 }

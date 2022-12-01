@@ -19,7 +19,7 @@
     height: 560px;
     overflow: hidden;
     position: absolute;
-    top: 580%;
+    top: 600%;
     left: 50%;
     transform: translate(-50%, -50%);
 }

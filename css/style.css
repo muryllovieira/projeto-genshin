@@ -17,10 +17,20 @@
     height: 160vh;
 }
 .informacoes-versao{
-    height: 150vh;
+    height: 170vh;
 }
 .caracteristicas{
     height: 120vh;
 } 
-
+@media (max-width:640px) {
+    .home{
+        height: 130vh;
+    }
+    .novos-personagens{
+        height: 140vh;
+    }
+    .novos-inimigos{
+        height: 100vh;
+    }
+}
 

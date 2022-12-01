@@ -21,3 +21,8 @@
     align-items: center;
     gap: 250px;
 }
+@media (max-width:640px){
+    .itemSonhos{
+        display: none;
+    }
+}
