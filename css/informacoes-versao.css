@@ -25,4 +25,13 @@
     .itemSonhos{
         display: none;
     }
+    .container1{
+        display: none;
+    }
+    .personagens{
+        display: grid;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+    }
 }
