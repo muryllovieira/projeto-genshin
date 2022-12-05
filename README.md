@@ -15,7 +15,7 @@ O objetivo deste projeto é colocar em prática os conhecimentos, sobre desenvol
 - CSS3
 - Responsividade
 - Markdown
-- JavaScript
+- JavaScriptgit 
 
 ---
 ## Autor
