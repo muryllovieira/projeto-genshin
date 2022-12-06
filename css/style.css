@@ -23,11 +23,11 @@
     height: 120vh;
 } 
 @media (max-width:640px) {
-    .home{
+    .home1{
         height: 130vh;
     }
     .novos-personagens{
-        height: 140vh;
+        height: 120vh;
     }
     .novos-inimigos{
         height: 100vh;

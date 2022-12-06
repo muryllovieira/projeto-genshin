@@ -46,7 +46,13 @@
 }
 /* MOBILE */
 @media (max-width:640px) {
-
+    .home{
+        background-position: center;
+    }
+    .logo1 img{
+        display: grid;
+        place-self: center;
+    }
     .parte-cima{
         display: flex;
         justify-content: flex-start;

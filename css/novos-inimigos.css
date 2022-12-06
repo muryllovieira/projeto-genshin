@@ -23,12 +23,24 @@
     width: 900px;
     height: 900px;
 }
+
+.gif img{
+    border-radius: 50%;
+    width: 900px;
+    height: 900px;
+
+}
 @media (max-width:640px){
     .circulo-gif{
         display: flex;
         background: none;
         width: 500px;
         height: 500px;
+    }
+    .gif img{
+        width: 500px;
+        height: 500px;
+    
     }
     .container{
         display: none;

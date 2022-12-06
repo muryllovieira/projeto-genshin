@@ -21,10 +21,20 @@
      
 </head>
 <body>
+    <div vw class="enabled">
+        <div vw-access-button class="active"></div>
+        <div vw-plugin-wrapper>
+          <div class="vw-plugin-top-wrapper"></div>
+        </div>
+      </div>
+      <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+      <script>
+        new window.VLibras.Widget('https://vlibras.gov.br/app');
+      </script>
     <main class="home1">
         <section class="home">
             <div class="parte-cima">
-                <div class="logo1">
+                <div class="logo">
                     <img src="./img/logoGenshin.png" alt="logoGenshin" class="logo">
                 </div>
                 
@@ -99,7 +109,7 @@
             </div>
             
         </section>
-        <section class="novos-inimigos" id="#novos-inimigos">
+        <section class="novos-inimigos" id="novos-inimigos">
             <div class="titulo__text">
                 <div class="container">
                     <i class="fa-solid fa-diamond"></i>
@@ -136,7 +146,7 @@
             <div class="personagens">
                 <img src="./img/yoimiya.png" alt="yoimiya">
                 <img src="./img/yaeMiko.png" alt="yae miko">
-                <img src="./img/tartaglia.png" alt="tartaglia">
+                <img class="tartaglia" src="./img/tartaglia.png" alt="tartaglia">
             </div>
             <div class="itemSonhos">
                 <img src="./img/sonhosItem-removebg-preview.png" alt="Item sonhos perdidos">
