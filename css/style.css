@@ -22,6 +22,7 @@
 .caracteristicas{
     height: 120vh;
 } 
+
 @media (max-width:640px) {
     .home1{
         height: 130vh;
@@ -39,4 +40,3 @@
         height: 90vh;
     } 
 }
-

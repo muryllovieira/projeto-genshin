@@ -1,4 +1,5 @@
 .social-container {
+    top: 50%;
     grid-area: social;
     display: flex;
     gap: 152px;
@@ -13,6 +14,12 @@
     background-color: #AE53CE;
     display: grid;
     place-content: center;
+}
+.copyright{
+
+    color: #ffffff;
+    display: flex;
+
 }
 @media (max-width:640px){
     .social-container{
